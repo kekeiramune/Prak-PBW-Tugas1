@@ -1,6 +1,6 @@
 Nama : Kezia Annabel Sinaga
------------------------------
 NPM : 4523210134
+-----------------------------
 
 Install Git on Windows
 1. Navigate to the latest Git for Windows installer and download the latest version.

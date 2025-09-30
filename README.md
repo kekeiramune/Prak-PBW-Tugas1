@@ -1,4 +1,5 @@
 Nama : Kezia Annabel Sinaga
+-----------------------------
 NPM : 4523210134
 
 Install Git on Windows
